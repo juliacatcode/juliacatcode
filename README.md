@@ -23,7 +23,7 @@
 <hr>
 
 #### Some skills:
-- Gaining experience with: HTML, CSS, JS, and FlutterFlow;
+- Gaining experience with: **HTML, CSS, JS, and FlutterFlow**;
 
 <br>
 
@@ -48,7 +48,6 @@
 
 <br>
 
-<hr>
 <!--
 **juliacatcode/juliacatcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
